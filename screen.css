@@ -1,1 +1,21 @@
 /* Add screen styles below */
+.header {
+    color: #EFF1F3;
+    background: #183A37;
+    position: sticky; 
+    top: 50px; 
+    left: 50px;
+}
+
+.quote{
+    color: #41292C;
+    font-size: 28px;
+    text-align: center;
+    position: sticky; 
+    top: 50px; 
+    left: 50px;
+}
+
+.about-me{
+    color: #183A37;
+}
