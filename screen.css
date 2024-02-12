@@ -1,21 +1,38 @@
 /* Add screen styles below */
-.header {
+body{
+    color: #EFF1F3;
+    font-family: helvetica;
+    margin-top: 0px;
+}
+
+h1 {
     color: #EFF1F3;
     background: #183A37;
-    position: sticky; 
-    top: 50px; 
-    left: 50px;
+    font-size: 48px;
+    margin: auto;
+    height: 115px;
+    line-height: 115px;
+    padding: 10px;
 }
 
 .quote{
     color: #41292C;
-    font-size: 28px;
+    font-size: 48px;
+    margin: 0 auto;
     text-align: center;
-    position: sticky; 
-    top: 50px; 
-    left: 50px;
+    width: 700px;
+    font-style: italic;
 }
 
 .about-me{
     color: #183A37;
+    margin: 0 auto;
+    width: 700px;
+    height: 400px;
 }
+
+img{
+    float: left;
+    margin-right: 20px;
+}
+
